@@ -4,3 +4,16 @@ Chapter-9 Ray Optics: (Excluded, Terminated)
 9.7 Dispersion By A Prism
 9.8 Some Natural Phenomena Due To Sunlight
 Excerises: 9.11 to 9.14 and 9.26 to 9.38
+
+Chapter-10 Wave Optics: (Excluded, Terminated)  
+10.3 Refraction And Reflection Of Plane Waves Using Huygens Principle
+	10.3.1 Refraction Of A Plane Wave
+	10.3.2 Refraction At A Rarer Medium
+	10.3.3 Reflection Of A Plane Wave By A Plane Surface
+	10.3.4 The Doppler Effect
+10.6.3 Resolving Power Of Optical Instruments
+10.7 Polarisation
+	10.7.1 Polarisation By Scattering	
+	10.7.2 Polarisation By Reflection
+Example: 10.6, 10.8, 10.9
+Excerises: 10.8, 10.9, 10.11 to 10.21
