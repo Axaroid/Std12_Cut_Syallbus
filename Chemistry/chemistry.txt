@@ -3,3 +3,8 @@ Ch06- General Principles And Processes Of Isolation Of Elements
 6.4: Thermodyamic Principles Of Metallurgy 
 6.5: Electrochemical Princples Of Metallurgy (Aluminium electrolysis) 
 6.8: Uses Of Aluminium, Copper, Zinc And Iron
+
+Ch09- Coordination Compounds
+9.5.4: Crystal Field Theory
+9.5.5: Colour In Coordination Compounds
+9.5.6: Limitations Of Crystal Field Theory
