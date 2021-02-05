@@ -1,0 +1,6 @@
+Chapter-9 Ray Optics: (Excluded, Terminated)
+9.2.2 Focal Length Of Spherical Mirrors (Except f = R/2 relation)   
+9.2.3 The Mirror Equation (No Derivation Only Usage Of Equation)
+9.7 Dispersion By A Prism
+9.8 Some Natural Phenomena Due To Sunlight
+Excerises: 9.11 to 9.14 and 9.26 to 9.38
