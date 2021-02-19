@@ -12,11 +12,11 @@ Ch09- Coordination Compounds (Excluded)
 Ch07- The p-Block Elements (Excluded)  
 7.1.1	Occurrence
 7.1.6	Physical Properties
-7.3		Ammonia
-7.4		Oxides Of Nitrogen
-7.6		Phosphorus-Allotropic Forms
-7.7		Phosphine
-7.8		Phosphorus Halides
+7.3	Ammonia
+7.4	Oxides Of Nitrogen
+7.6	Phosphorus-Allotropic Forms
+7.7	Phosphine
+7.8	Phosphorus Halides
 7.10.1	Occurrence
 7.10.7	Physical Properties
 7.12 	Simple Oxides
