@@ -10,23 +10,23 @@ Ch09- Coordination Compounds (Excluded)
 9.5.6: Limitations Of Crystal Field Theory
 
 Ch07- The p-Block Elements (Excluded)  
-7.1.1	  Occurrence										              INCLUDED SYALLBUS: 
-7.1.6	  Physical Properties								           7.1	
-7.3		  Ammonia											                 7.2
-7.4		  Oxides Of Nitrogen								           7.5
-7.6		  Phosphorus-Allotropic Forms				           7.9
-7.7		  Phosphine										                 7.10
-7.8		  Phosphorus Halides								           7.11
-7.10.1	Occurrence										               7.16
-7.10.7	Physical Properties								           7.17
-7.12 	  Simple Oxides									               7.18
-7.13	  Ozone											                   7.19
-7.14	  Sulphur-Allotropic Forms						         7.21
-7.15	  Sulphur Dioxide									             7.23
-7.17	  Sulphuric Acid									             7.23.5 a) and b) only 
+7.1.1	Occurrence										INCLUDED SYALLBUS: 
+7.1.6	Physical Properties								7.1	
+7.3		Ammonia											7.2
+7.4		Oxides Of Nitrogen								7.5
+7.6		Phosphorus-Allotropic Forms						7.9
+7.7		Phosphine										7.10
+7.8		Phosphorus Halides								7.11
+7.10.1	Occurrence										7.16
+7.10.7	Physical Properties								7.17
+7.12 	Simple Oxides									7.18
+7.13	Ozone											7.19
+7.14	Sulphur-Allotropic Forms						7.21
+7.15	Sulphur Dioxide									7.23
+7.17	Sulphuric Acid									7.23.5 a) and b) only 
 7.18.1  Occurrence
 7.18.7	Physical Properties
-7.20	  Hydrogen Chloride
-7.22	  Interhalogen Compounds
+7.20	Hydrogen Chloride
+7.22	Interhalogen Compounds
 7.23.1	Occurrence
 7.23.5	Physical Properties And Chemical Properties
