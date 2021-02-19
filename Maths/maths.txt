@@ -8,8 +8,8 @@ Misc Excerises 1 :- 2, 11
 
 Chapter -11 3D Geometry (Excluded) 
 Angle between 
-(1)two lines,
-(2)two planes 
-(3)a line and a plane 
+(1) two lines,
+(2) two planes 
+(3) a line and a plane 
 Excerises 11.2 :- 10, 11 
 Examples 9, 10, 22, 23, 25, 26
