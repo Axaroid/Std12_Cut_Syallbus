@@ -1,10 +1,32 @@
-Ch06- General Principles And Processes Of Isolation Of Elements
+Ch06- General Principles And Processes Of Isolation Of Elements (Excluded)
 6.1: Occurrence Of Metals
 6.4: Thermodyamic Principles Of Metallurgy 
 6.5: Electrochemical Princples Of Metallurgy (Aluminium electrolysis) 
 6.8: Uses Of Aluminium, Copper, Zinc And Iron
 
-Ch09- Coordination Compounds
+Ch09- Coordination Compounds (Excluded)
 9.5.4: Crystal Field Theory
 9.5.5: Colour In Coordination Compounds
 9.5.6: Limitations Of Crystal Field Theory
+
+Ch07- The p-Block Elements (Excluded)  
+7.1.1	Occurrence										INCLUDED SYALLBUS: 
+7.1.6	Physical Properties								7.1	
+7.3		Ammonia											7.2
+7.4		Oxides Of Nitrogen								7.5
+7.6		Phosphorus-Allotropic Forms						7.9
+7.7		Phosphine										7.10
+7.8		Phosphorus Halides								7.11
+7.10.1	Occurrence										7.16
+7.10.7	Physical Properties								7.17
+7.12 	Simple Oxides									7.18
+7.13	Ozone											7.19
+7.14	Sulphur-Allotropic Forms						7.21
+7.15	Sulphur Dioxide									7.23
+7.17	Sulphuric Acid									7.23.5 a) and b) only 
+7.18.1  Occurrence
+7.18.7	Physical Properties
+7.20	Hydrogen Chloride
+7.22	Interhalogen Compounds
+7.23.1	Occurrence
+7.23.5	Physical Properties And Chemical Properties
