@@ -34,5 +34,5 @@ Ch07- The p-Block Elements (Excluded)
 <--------------------------Group-18-------------------------->
 7.23.1	Occurrence
 7.23.5	Physical Properties And Chemical Properties
-<<--------------------------ENDCH07-------------------------->
+<--------------------------ENDCH07-------------------------->
 INCLUDED SYALLBUS:7.1 7.2 7.5 7.9 7.10 7.11 7.16 7.17 7.18 7.19 7.21 7.23 7.23.5 a) and b) only
