@@ -17,3 +17,7 @@ Chapter-10 Wave Optics: (Excluded, Terminated)
 	10.7.2 Polarisation By Reflection
 Example: 10.6, 10.8, 10.9
 Excerises: 10.8, 10.9, 10.11 to 10.21
+
+Chapter-11 Dual Nature Of Radiation And Matter
+11.9 Davisson and Germer Experiment
+Excerises: 11.20 to 11.37
